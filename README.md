@@ -3,4 +3,11 @@ Lab exercises and example programs with output
 
 
 ListInterfaceDemo 1a o/p link- https://github.com/user-attachments/assets/291adfc1-3d96-4a5d-9493-1df55ef68ca1
+ArraylistPrograms_1b_1 o/p link-https://github.com/user-attachments/assets/ce016926-2837-49a7-9b81-c0531732b829
+ArraylistPrograms_1b_2 o/p link-https://github.com/user-attachments/assets/a580ab2d-878e-494d-81f1-5c0a33b5cdee
+ArraylistPrograms_1b_3 o/p link-https://github.com/user-attachments/assets/003b2293-5e3e-48a8-babe-1c420e496c5a
+ArraylistPrograms_1b_4 o/p link-https://github.com/user-attachments/assets/f042ab89-8118-43b6-a4fb-27207c3ff4aa
+ArraylistPrograms_1b_5 o/p link-https://github.com/user-attachments/assets/0e295490-0d91-4057-a69f-e664a64d6603
+
+
 
