@@ -17,5 +17,23 @@ ArraylistPrograms_1b_4 o/p link-https://github.com/user-attachments/assets/f042a
 
 ArraylistPrograms_1b_5 o/p link-https://github.com/user-attachments/assets/0e295490-0d91-4057-a69f-e664a64d6603
 
+LinkedListPrograms_1c_1 o/p link-https://github.com/user-attachments/assets/278491ec-81cd-458d-be27-6fe47ad3103b
+
+
+LinkedListPrograms_1c_2 o/p link-https://github.com/user-attachments/assets/dd70f70b-549f-4071-be7a-b22e815a7379
+
+
+
+LinkedListPrograms_1c_3 o/p link-https://github.com/user-attachments/assets/4be03344-75ec-4143-8829-3bdfc9eac153
+
+
+
+LinkedListPrograms_1c_4 o/p link-https://github.com/user-attachments/assets/381ff14c-c471-4eb1-8507-dc2632e509e1
+
+
+LinkedListPrograms_1c_5 o/p link-https://github.com/user-attachments/assets/f078fbda-9dbf-43f3-ae0f-dc0ec8603cfb
+
+
+
 
 
