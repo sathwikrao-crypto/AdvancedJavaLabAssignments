@@ -33,6 +33,12 @@ LinkedListPrograms_1c_4 o/p link-https://github.com/user-attachments/assets/381f
 
 LinkedListPrograms_1c_5 o/p link-https://github.com/user-attachments/assets/f078fbda-9dbf-43f3-ae0f-dc0ec8603cfb
 
+StringHandlingFunctions_2a o/p link-https://github.com/user-attachments/assets/1e622198-c0b0-4530-8c53-58645a34f321
+
+
+StringHandlingFunctions_2b o/p link-https://github.com/user-attachments/assets/f9ecf083-f99a-4976-8956-1f5796a6f400
+
+
 
 
 
