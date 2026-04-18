@@ -64,6 +64,13 @@ SwingPrograms_5c o/p link-https://github.com/user-attachments/assets/b0d78a05-7f
 
 SwingPrograms_5d o/p link-https://github.com/user-attachments/assets/9ed4a8aa-9c19-493b-9f49-49d22971bbdf
 
+ServletPrograms_6a o/p link-https://github.com/user-attachments/assets/76422534-fa6a-4958-ad29-f953f191be64
+
+
+ServletPrograms_6b o/p link-https://github.com/user-attachments/assets/10dd95c3-ea33-43e1-8797-3d5fc99fa179
+
+
+
 
 
 
